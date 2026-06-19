@@ -1,8 +1,7 @@
 {
-    "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "bagene/laravel-starter",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "My custom Laravel boilerplate starter kit.",
     "keywords": [
         "laravel",
         "framework"
